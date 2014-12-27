@@ -21,17 +21,14 @@
 # History:
 # Date      Author      Comments
 # 08/22/13  Deepak      Initial authoring.
-# 08.07.2014 ms         Changes
+# 26.12.2014 ms         Changes
 
-import time
 import os, sys
 import pipan
 
 # print "pi-pan pan/tilt demo"
 
 p = pipan.PiPan()
-
-sleep_time = 0.5
 
 x = 50
 y = 105
